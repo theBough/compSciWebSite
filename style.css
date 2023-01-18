@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #D8E2DC;
+}
+.header{
+  padding: 60px;
+  text-align: center;
+  background-color: #FEC5BB;
+  color:#F8EDEB;
+  font-size: 30px;
+  border: 10px solid #FEC89A;
+  border-width: 10px;
+  margin: 20px;
+}
